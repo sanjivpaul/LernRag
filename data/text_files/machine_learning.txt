@@ -1,0 +1,12 @@
+Machine Learning Basics
+
+    Machine Learning (ML) is a subset of artificial intelligence that focuses on building systems that can learn from and make decisions based on data.
+    Instead of being explicitly programmed for every task, ML algorithms identify patterns in data and improve their performance over time.
+
+    Types of Machine Learning:
+    1. Supervised Learning: Learning with labeled data.
+    2. Unsupervised Learning: Finding patterns in unlabled data.
+    3. Reinforcement Learning: Learning through rewards and penalties.
+
+    Applications includes image recognition, natural language processing, recommendation systems, speech processing and more.
+    
