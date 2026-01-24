@@ -8,4 +8,6 @@ dependencies = [
     "langchain>=1.2.6",
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.7",
+    "pymupdf>=1.26.7",
+    "pypdf>=6.6.0",
 ]
